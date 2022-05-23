@@ -1,0 +1,14 @@
+User-agent : *
+Disallow :
+
+User-agent : * 
+Disallow : /calender/
+Disallow : /junk/
+
+Disallow : /private_file.html
+
+User-agent : Googlebot-Image
+Disallow : /
+
+User-agent : Googlebot-Image
+Disallow : /images
